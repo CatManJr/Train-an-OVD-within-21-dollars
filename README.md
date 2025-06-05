@@ -17,7 +17,7 @@ It's performance after finetuning on DIOR:
 ## Code
 I provide the model config file `yolo11-earth.yaml` in [`model`](https://github.com/CatManJr/Train-an-OVD-within-21-dollars/tree/main/model) and some useful toolkits in `utils` , like how to split xView and how to build a gradio app for your model.
 There is no furthur plan to share my training scripts. Becasue with the model yaml you can easily reproduce my work with 
-![Ultralytics](https://badgen.net/badge/Ultralytics/Open%20Source/blue?icon=github)
+[![Ultralytics](https://badgen.net/badge/Ultralytics/Open%20Source/blue?icon=github)](https://github.com/ultralytics/)
 ## Wieghts
 I'm glad to share my weights.<br>
 Now I'm looking for a efficient methods to share these weights (about 50 files), maybe Google Drive. 
